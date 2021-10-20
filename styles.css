@@ -1,3 +1,8 @@
+.section1 {
+    background-color: #1f2937;
+    font-family: sans-serif ;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -10,17 +15,31 @@
 .logo {
     display: flex;
     align-items: center;
-    
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 .links {
     display: flex;
-    list-style-type: none;  
+    list-style-type: none;
 }
 
 a {
     text-decoration: none;
     margin: 20px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+p {
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .signup1 {
@@ -43,7 +62,7 @@ a {
     padding-left: 300px;
     padding-right: 300px;
     padding-top: 75px;
-    
+    padding-bottom: 75px;    
 }
 
 .leftcontent {
