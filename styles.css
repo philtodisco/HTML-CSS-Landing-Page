@@ -1,10 +1,11 @@
 .header {
     display: flex;
     justify-content: space-between;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 300px;
+    padding-right: 280px;
      
 }
+
 
 .logo {
     display: flex;
@@ -14,15 +15,43 @@
 
 .links {
     display: flex;
-    list-style-type: none;
-
-    
-    
-    
+    list-style-type: none;  
 }
-
 
 a {
     text-decoration: none;
     margin: 20px;
+}
+
+.signup1 {
+    background-color: #3882f6;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    font-size: 18px;
+    padding: 12px 28px;
+    transition-duration: 0.4s;
+}
+
+.signup1:hover {
+    background-color: #225fc0;
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 75px;
+    
+}
+
+.leftcontent {
+    align-self: center;
+    margin-right: 50px;
+}
+
+
+.hunter1 {
+    width: 30%;
 }
