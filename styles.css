@@ -110,7 +110,31 @@ h2 {
 
 .imagetext {
     text-align: center;
-    padding: 20px 60px 0px 60px;
+    padding: 20px 75px 0px 75px;
     font-size: 14px;
     color: #1f2937;
+}
+
+.section3 {
+    background-color: #e5e7eb;
+}
+
+.container3 {
+    padding: 120px 220px 100px 220px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;   
+}
+
+.quoteauthor {
+    font-size: 20px;
+    color: #1f2937;
+    font-weight: bold;
+    padding-right: 40px;
+    text-align: right;
+
 }
