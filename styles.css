@@ -181,5 +181,15 @@ h2 {
 
 .signup2:hover {
     background-color: #225fc0;
+}
 
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-family: sans-serif;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 40px 0px 40px 0px;
 }
